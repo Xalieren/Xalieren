@@ -1,4 +1,4 @@
-### Selamlar, dünyanın en dandik insanının GitHub profiline hoş geldiniz! 👋
+### Selamlar, bir numaralı Rise 6.0 fanının GitHub profiline hoş geldiniz! 👋
 
 - 🔭 Şu anda [websitem](https://xalieren.github.io/) üzerinde çalışıyorum.
 - 🌱 Şu anda HTML5, CSS3 ve JavaScript öğreniyorum.
