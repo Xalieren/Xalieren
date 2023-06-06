@@ -10,4 +10,4 @@
 [![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=dark)](https://github.com/Xalieren)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=compact&theme=dark)](https://github.com/Xalieren?tab=repositories)
 
-[![READMEKart](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io)](https://xalieren.github.io/)
+[![READMEKart](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io&theme=dark)](https://xalieren.github.io/)
