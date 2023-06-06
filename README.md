@@ -11,4 +11,4 @@
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=compact&theme=dark)](https://github.com/Xalieren?tab=repositories)
 
 [![READMEKart](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io&theme=dark)](https://xalieren.github.io/)
-[![READMEKart2](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi)](https://github.com/Xalieren/hesap-makinesi/releases/)
+[![READMEKart2](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=dark)](https://github.com/Xalieren/hesap-makinesi/releases/)
