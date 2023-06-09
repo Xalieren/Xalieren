@@ -13,4 +13,4 @@
 
 # Repositorylerim
 [![Web](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io&theme=tokyonight)](https://xalieren.github.io)
-[![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=tokyonight)](https://github.com/Xalieren/hesap-makinesi))
+[![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=tokyonight)](https://github.com/Xalieren/hesap-makinesi)
