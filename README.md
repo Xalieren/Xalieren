@@ -10,3 +10,6 @@
 # GitHub İstatistikleri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=tokyonight)](about:blank)
 [![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=tokyonight)](about:blank)
+
+# Repositorylerim
+[![Web](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io)](https://xalieren.github.io)
