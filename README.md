@@ -8,5 +8,5 @@
 - ⚡ Eğlenceli gerçek: ☆Tenizi☆#8416 gaydir.
 
 # GitHub İstatistikleri
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=dark)](about:blank)
-[![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=dark)](about:blank)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=gradient)](about:blank)
+[![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=gradient)](about:blank)
