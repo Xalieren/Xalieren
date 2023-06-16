@@ -9,7 +9,7 @@
 
 # GitHub İstatistikleri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=tokyonight)](https://github.com/Xalieren?tab=repositories)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Xalieren)
+[![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Xalieren)
 
 # Repositorylerim
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io&theme=tokyonight)](https://xalieren.github.io)
