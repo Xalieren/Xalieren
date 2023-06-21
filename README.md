@@ -12,5 +12,4 @@
 [![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=tokyonight)](https://github.com/Xalieren)
 
 # Repositorylerim
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=xalieren.github.io&theme=tokyonight)](https://xalieren.github.io)
 [![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=tokyonight)](https://github.com/Xalieren/hesap-makinesi)
