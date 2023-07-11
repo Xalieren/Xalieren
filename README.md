@@ -8,8 +8,8 @@
 - ⚡ Eğlenceli gerçek: ☆Tenizi☆#8416 gaydir.
 
 # GitHub İstatistikleri
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=radical)](https://github.com/Xalieren?tab=repositories)
-[![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=radical)](https://github.com/Xalieren)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=tokyonight)](https://github.com/Xalieren?tab=repositories)
+[![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=tokyonight)](https://github.com/Xalieren)
 
 # Repositorylerim
-[![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=radical)](https://github.com/Xalieren/hesap-makinesi)
+[![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=tokyonight)](https://github.com/Xalieren/hesap-makinesi)
