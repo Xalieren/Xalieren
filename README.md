@@ -10,6 +10,7 @@
 # GitHub İstatistikleri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xalieren&layout=donut-vertical&theme=tokyonight)](https://github.com/Xalieren?tab=repositories)
 [![İstatistikler](https://github-readme-stats.vercel.app/api?username=Xalieren&show_icons=true&theme=tokyonight)](https://github.com/Xalieren)
+![](https://komarev.com/ghpvc/?username=Xalieren&style=plastic&color=blue)
 
 # Repositorylerim
 [![HM](https://github-readme-stats.vercel.app/api/pin/?username=Xalieren&repo=hesap-makinesi&theme=tokyonight)](https://github.com/Xalieren/hesap-makinesi)
