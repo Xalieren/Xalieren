@@ -1,4 +1,4 @@
-### Selamlar, bir numaralı Rise 6.0 fanının GitHub profiline hoş geldiniz! 👋
+### Selamlar, bir numaralı Ryu fanının GitHub profiline hoş geldiniz! 👋
 
 - 🔭 Şu anda birşeyle çalışmıyorum.
 - 🌱 Şu anda Lua, HTML5, CSS3 ve JavaScript öğreniyorum.
